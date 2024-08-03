@@ -87,7 +87,7 @@
 <h2 align="left">🔥Statistics</h2>
 <p align="middle">
 
-<p align="center" justify="start">
+<p align="start" justify="start">
     <img height="120" width="150" src="https://github.com/Hunter-1225/Hunter-1225/blob/main/assets/images/left.png">
     <a href="https://github.com/Hunter-1225">
     <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Hunter-1225&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
