@@ -10,11 +10,11 @@
 
 <!-- - 📝 Get Details about me : [**Curriculum Vitae**](https://drive.google.com/file/d/19rnbukAhf9oPhadMhsvI3xnWF6FIYeMT/view?usp=share_link) -->
 
-- 📫 How to reach me : **berthutapea@gmail.com**
+<!-- - 📫 How to reach me : **berthutapea@gmail.com**
 <br><br><br>
 <a href="https://github.com/berthutapea/">
 <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=berthutapea&style=flat-square&label=Profile+Views&color=0891b2" />
-</a>
+</a> -->
 <!--
 
 ## 👉 Connect with me:
@@ -24,7 +24,8 @@
     <a style="margin: 0 10px" href="https://www.linkedin.com/in/gilberthutapea/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
     <a href="https://twitter.com/GilbertHutapeaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
     <a style="margin: 0 10px" href="https://www.instagram.com/bethup97/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
-</p> -->
+</p>
+-->
 
 <br>
 <h2 align="left">✨Languages and Tools:</h2>
