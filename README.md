@@ -86,8 +86,8 @@
 <br>
 <h2 align="left">🔥Statistics</h2>
 <p align="middle">
-<a href="https://github.com/berthutapea">
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=berthutapea&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/Hunter-1225">
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Hunter-1225&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 </a>
 <p align="center">
   <a>
