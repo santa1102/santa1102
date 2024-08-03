@@ -88,3 +88,10 @@
 <a href="https://github.com/berthutapea">
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=berthutapea&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 </a>
+<p align="center">
+  <a>
+    <img height="120" width="150" src="https://github.com/Hunter-1225/Hunter-1225/blob/main/left.png">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Hunter-1225&theme=dark"/>
+    <img height="120" width="150" src="https://github.com/Hunter-1225/Hunter-1225/blob/main/right.png">
+  </a>
+</p>
