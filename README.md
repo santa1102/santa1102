@@ -1,4 +1,4 @@
-<h1 align="center">👋🏻 Hi, I'm Gilbert Hutapea</h1>
+<h1 align="center">👋🏻 Hi, I'm Hardy Smith</h1>
 
 ### 👨‍💻 Here's Some Fun Facts About Me:
 
@@ -11,10 +11,10 @@
 <!-- - 📝 Get Details about me : [**Curriculum Vitae**](https://drive.google.com/file/d/19rnbukAhf9oPhadMhsvI3xnWF6FIYeMT/view?usp=share_link) -->
 
 - 📫 How to reach me : **berthutapea@gmail.com**
-<br><br><br>
-<a href="https://github.com/berthutapea/">
-   <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=berthutapea&style=flat-square&label=Profile+Views&color=0891b2" />
-</a>
+  <br><br><br>
+  <a href="https://github.com/berthutapea/">
+  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=berthutapea&style=flat-square&label=Profile+Views&color=0891b2" />
+  </a>
 
 ## 👉 Connect with me:
 
@@ -57,11 +57,11 @@
 <h2 align="left">📜Certificates</h2>
 
 <h4>
-   
+
 - <a href="https://www.dicoding.com/certificates/2VX31353JZYQ">Learn Basic Web Programming from Dicoding Indonesia</a>
 
 - <a href="https://www.dicoding.com/certificates/2VX3Y0NYQPYQ">Learn Basic JavaScript Programming from Dicoding Indonesia</a>
-   
+
 - <a href="https://www.dicoding.com/certificates/72ZD9J65JPYW">Learn to Make a Web Front-End for Beginners from Dicoding Indonesia</a>
 
 - <a href="https://www.dicoding.com/certificates/72ZD9M7O6PYW">Learn to Make Web Applications with React from Dicoding Indonesia</a>
