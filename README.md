@@ -90,8 +90,8 @@
 </a>
 <p align="center">
   <a>
-    <img height="120" width="150" src="https://github.com/Hunter-1225/Hunter-1225/blob/main/left.png">
+    <img height="120" width="150" src="https://github.com/Hunter-1225/Hunter-1225/assets/images/left.png">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Hunter-1225&theme=dark"/>
-    <img height="120" width="150" src="https://github.com/Hunter-1225/Hunter-1225/blob/main/right.png">
+    <img height="120" width="150" src="https://github.com/Hunter-1225/Hunter-1225/assets/images/right.png">
   </a>
 </p>
