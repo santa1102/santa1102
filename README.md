@@ -2,7 +2,7 @@
 
 [![Hello World, I'm webmaster!](assets/gif/header.gif)](https://github.com/webmaster1225)
 Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on [Pinterest](https://www.pinterest.com/).
-
+https://github.com/webmaster1225/webmaster1225/blob/main/README.md
 </div>
 <h1 align="center">👋🏻 Hi, I'm webmaster</h1>
 
@@ -17,7 +17,9 @@ Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on 
 ## 👉 Connect with me:
 
 <p align="left">
-    <a style="margin: 0 10px" href="https://next-ts-port-folio.vercel.app/" target="blank" title="Portfolio"><img align="center" src="https://ibb.co/BzsTQQJ" alt="portfolio" height="40" width="40" /></a>
+    <a style="margin: 0 0px;" href="https://next-ts-port-folio.vercel.app/" target="blank" title="Portfolio"><img align="center" style="border-radius: 20px" src="https://i.imghippo.com/files/SpTSv1724622516.png" alt="portfolio" height="40" width="40" /></a>
+    <a style="margin: 0 10px" href="http://discord.com/users/1266447909398773882/" target="blank" title="Discord"><img align="center" src="assets/icons/discord-v2.svg" alt="discord" height="40" width="40" /></a>
+    <a style="margin: 0 10px" href="http://t.me/amir21225" target="blank" title="Telegram"><img align="center" src="assets/icons/telegram.svg" alt="telegram" height="40" width="40" /></a>
 </p>
 
 <br>
