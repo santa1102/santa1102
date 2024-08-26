@@ -1,3 +1,8 @@
+<style>
+    radius{
+        border-radius:50%;
+    }
+</style>
 <div align="center">
 
 [![Hello World, I'm webmaster!](assets/gif/header.gif)](https://github.com/webmaster1225)
@@ -18,7 +23,7 @@ https://github.com/webmaster1225/webmaster1225/blob/main/README.md
 
 <p align="left">
     <a style="margin: 0 10px;" href="https://next-ts-port-folio.vercel.app/" target="blank" title="Portfolio">
-        <img align="center" src="https://i.imghippo.com/files/SpTSv1724622516.png" alt="portfolio" height="40" width="40"  style="border-radius:50%"/>
+      <img src="assets/avatar/avatar.svg" alt="avatar" height="40" width="40" />
     </a>
     <a style="margin: 0 10px" href="http://discord.com/users/1266447909398773882/" target="blank" title="Discord">
         <img align="center" src="assets/icons/discord-v2.svg" alt="discord" height="40" width="40" />
