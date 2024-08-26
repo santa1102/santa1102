@@ -34,11 +34,10 @@ https://github.com/webmaster1225/webmaster1225/blob/main/README.md
         <a target="_blank" href="https://collectors.poap.xyz/en-US/token/6673781"><img height=175 alt="Double Your DeFi Cohort 2: May 2023" src="https://assets.poap.xyz/0c6eaacb-d527-479b-8a0e-d9e60726851d.png" />&nbsp;&nbsp;
     </p>
 </div>
->>>>>>> 64d4480133a65fb77ea562a6ee713fbb888284e9
 <p align="middle">
     <img height="120" width="150" src="https://github.com/Hunter-1225/Hunter-1225/blob/main/assets/images/left.png">
-    <a href="https://github.com/Hunter-1225">
-    <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Hunter-1225&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <a href="https://github.com/webmaster1225">
+    <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=webmaster1225&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
     </a>
-    <img height="120" width="150" src="https://github.com/Hunter-1225/Hunter-1225/blob/main/assets/images/right.png">
+    <img height="120" width="150" src="https://github.com/webmaster/webmaster/blob/main/assets/images/right.png">
 </p>
