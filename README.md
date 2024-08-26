@@ -11,7 +11,7 @@
 ## 👉 Connect with me:
 
 <p align="center" justify="rounded">
-    <a style="margin: 0 10px;" href="https://next-ts-port-folio.vercel.app/" target="blank" title="Portfolio">
+    <a style="margin: 0 10px;" href="https://blockchain-portfolio-nu.vercel.app/" target="blank" title="Portfolio">
       <img align="center" src="https://i.imghippo.com/files/euRoo1724645328.png" alt="avatar" height="70" width="70" />
     </a>
     <a style="margin: 0 10px" href="http://discord.com/users/1266447909398773882/" target="blank" title="Discord">
@@ -45,4 +45,3 @@
         <a target="_blank" href="https://collectors.poap.xyz/en-US/token/6673781"><img height=175 alt="Double Your DeFi Cohort 2: May 2023" src="https://assets.poap.xyz/0c6eaacb-d527-479b-8a0e-d9e60726851d.png" />&nbsp;&nbsp;
     </p>
 </div>
-
