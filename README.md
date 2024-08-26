@@ -1,14 +1,3 @@
-<style>
-    radius{
-        border-radius:50%;
-    }
-</style>
-<div align="center">
-
-[![Hello World, I'm webmaster!](assets/gif/header.gif)](https://github.com/webmaster1225)
-Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on [Pinterest](https://www.pinterest.com/).
-https://github.com/webmaster1225/webmaster1225/blob/main/README.md
-</div>
 <h1 align="center">👋🏻 Hi, I'm webmaster</h1>
 
 ### 👨‍💻 Here's Some Fun Facts About Me:
@@ -21,19 +10,32 @@ https://github.com/webmaster1225/webmaster1225/blob/main/README.md
 
 ## 👉 Connect with me:
 
-<p align="left">
+<p align="center" justify="rounded">
     <a style="margin: 0 10px;" href="https://next-ts-port-folio.vercel.app/" target="blank" title="Portfolio">
-      <img src="assets/avatar/avatar.svg" alt="avatar" height="40" width="40" />
+      <img align="center" src="https://i.imghippo.com/files/euRoo1724645328.png" alt="avatar" height="70" width="70" />
     </a>
     <a style="margin: 0 10px" href="http://discord.com/users/1266447909398773882/" target="blank" title="Discord">
-        <img align="center" src="assets/icons/discord-v2.svg" alt="discord" height="40" width="40" />
+        <img align="center" src="assets/icons/discord-v2.svg" alt="discord" height="70" width="70" />
     </a>
-    <a style="margin: 0 10px" href="http://t.me/amir21225" target="blank" title="Telegram"><img align="center" src="assets/icons/telegram.svg" alt="telegram" height="40" width="40" /></a>
+    <a style="margin: 0 10px" href="http://t.me/amir21225" target="blank" title="Telegram">
+        <img align="center" src="assets/icons/telegram.svg" alt="telegram" height="70" width="70" />
+    </a>
+    <a style="margin: 0 10px" href="mailto:hardysmith970110@gmail.com" target="blank" title="Email">
+        <img align="center" src="assets/icons/email.svg" alt="email" height="70" width="70" />
+    </a>
 </p>
 
 <br>
 
 <h2 align="left">🔥Statistics</h2>
+<br>
+<div align="center">
+        <img align="start" height="120" width="150" right="50" src="https://github.com/webmaster1225/webmaster1225/blob/main/assets/images/left.png">
+      <a href="https://github.com/webmaster1225">
+        <img align="center" height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=webmaster1225&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+      </a>
+        <img align="start" height="120" width="150" src="https://github.com/webmaster1225/webmaster1225/blob/main/assets/images/right.png"/>
+</div>
 <br>
 <div align="center">
     <p>
@@ -43,10 +45,4 @@ https://github.com/webmaster1225/webmaster1225/blob/main/README.md
         <a target="_blank" href="https://collectors.poap.xyz/en-US/token/6673781"><img height=175 alt="Double Your DeFi Cohort 2: May 2023" src="https://assets.poap.xyz/0c6eaacb-d527-479b-8a0e-d9e60726851d.png" />&nbsp;&nbsp;
     </p>
 </div>
-<div style="display: flex; flex-direction: row; justify-content: center; align-items: center;">
-        <img height="120" width="150" src="https://github.com/webmaster1225/webmaster1225/blob/main/assets/images/left.png">
-      <a href="https://github.com/webmaster1225">
-        <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=webmaster1225&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-      </a>
-        <img height="120" width="150" src="https://github.com/webmaster1225/webmaster1225/blob/main/assets/images/right.png"/>
-</div>
+
