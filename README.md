@@ -17,8 +17,12 @@ https://github.com/webmaster1225/webmaster1225/blob/main/README.md
 ## 👉 Connect with me:
 
 <p align="left">
-    <a style="margin: 0 0px;" href="https://next-ts-port-folio.vercel.app/" target="blank" title="Portfolio"><img align="center" style="border-radius: 20px" src="https://i.imghippo.com/files/SpTSv1724622516.png" alt="portfolio" height="40" width="40" /></a>
-    <a style="margin: 0 10px" href="http://discord.com/users/1266447909398773882/" target="blank" title="Discord"><img align="center" src="assets/icons/discord-v2.svg" alt="discord" height="40" width="40" /></a>
+    <a style="margin: 0 10px;" href="https://next-ts-port-folio.vercel.app/" target="blank" title="Portfolio">
+        <img align="center" src="https://i.imghippo.com/files/SpTSv1724622516.png" alt="portfolio" height="40" width="40"  style="border-radius: 50%;"/>
+    </a>
+    <a style="margin: 0 10px" href="http://discord.com/users/1266447909398773882/" target="blank" title="Discord">
+        <img align="center" src="assets/icons/discord-v2.svg" alt="discord" height="40" width="40" />
+    </a>
     <a style="margin: 0 10px" href="http://t.me/amir21225" target="blank" title="Telegram"><img align="center" src="assets/icons/telegram.svg" alt="telegram" height="40" width="40" /></a>
 </p>
 
@@ -35,9 +39,9 @@ https://github.com/webmaster1225/webmaster1225/blob/main/README.md
     </p>
 </div>
 <p align="middle">
-    <img height="120" width="150" src="https://github.com/Hunter-1225/Hunter-1225/blob/main/assets/images/left.png">
+    <img height="120" width="150" src="https://github.com/webmaster1225/webmaster1225/blob/main/assets/images/left.png">
     <a href="https://github.com/webmaster1225">
     <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=webmaster1225&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
     </a>
-    <img height="120" width="150" src="https://github.com/webmaster/webmaster/blob/main/assets/images/right.png">
+    <img height="120" width="150" src="https://github.com/webmaster1225/webmaster1225/blob/main/assets/images/right.png">
 </p>
