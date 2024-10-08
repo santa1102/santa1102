@@ -12,7 +12,7 @@
 
 <p align="center" justify="rounded">
     <a style="margin: 0 10px;" href="https://blockchain-portfolio-nu.vercel.app/" target="blank" title="Portfolio">
-      <img align="center" src="https://ibb.co/0CKjKCZ" alt="avatar" height="70" width="70" />
+      <img align="center" src="https://i.ibb.co/HtCDCtY/15656252.jpg" alt="avatar" height="70" width="70" />
     </a>
     <a style="margin: 0 10px" href="http://discord.com/users/1266447909398773882/" target="blank" title="Discord">
         <img align="center" src="assets/icons/discord-v2.svg" alt="discord" height="70" width="70" />
