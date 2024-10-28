@@ -17,7 +17,7 @@
     <a style="margin: 0 10px" href="http://discord.com/users/1266447909398773882/" target="blank" title="Discord">
         <img align="center" src="assets/icons/discord-v2.svg" alt="discord" height="70" width="70" />
     </a>
-    <a style="margin: 0 10px" href="http://t.me/crypto21225" target="blank" title="Telegram">
+    <a style="margin: 0 10px" href="http://t.me/crypto_1225" target="blank" title="Telegram">
         <img align="center" src="assets/icons/telegram.svg" alt="telegram" height="70" width="70" />
     </a>
     <a style="margin: 0 10px" href="mailto:hardysmith970110@gmail.com" target="blank" title="Email">
