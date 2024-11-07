@@ -11,7 +11,7 @@
 ## 👉 Connect with me:
 
 <p align="center" justify="rounded">
-    <a style="margin: 0 10px;" href="https://blockchain-portfolio-nu.vercel.app/" target="blank" title="Portfolio">
+    <a style="margin: 0 10px;" href="https://hunterdev.vercel.app/" target="blank" title="Portfolio">
       <img align="center" src="https://i.ibb.co/q95pPdk/15656252-modified.png" alt="avatar" height="70" width="70" />
     </a>
     <a style="margin: 0 10px" href="http://discord.com/users/1266447909398773882/" target="blank" title="Discord">
