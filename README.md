@@ -20,7 +20,7 @@
     <a style="margin: 0 10px" href="http://t.me/crypto_1225" target="blank" title="Telegram">
         <img align="center" src="assets/icons/telegram.svg" alt="telegram" height="70" width="70" />
     </a>
-    <a style="margin: 0 10px" href="mailto:hardysmith970110@gmail.com" target="blank" title="Email">
+    <a style="margin: 0 10px" href="mailto:hardysmith940110@gmail.com" target="blank" title="Email">
         <img align="center" src="assets/icons/email.svg" alt="email" height="70" width="70" />
     </a>
 </p>
