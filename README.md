@@ -8,23 +8,6 @@
 
 - ⚡ Passionate about learning & development to reach the target.
 
-## 👉 Connect with me:
-
-<p align="center" justify="rounded">
-    <a style="margin: 0 10px;" href="https://hunterdev.vercel.app/" target="blank" title="Portfolio">
-      <img align="center" src="https://i.ibb.co/q95pPdk/15656252-modified.png" alt="avatar" height="70" width="70" />
-    </a>
-    <a style="margin: 0 10px" href="http://discord.com/users/1266447909398773882/" target="blank" title="Discord">
-        <img align="center" src="assets/icons/discord-v2.svg" alt="discord" height="70" width="70" />
-    </a>
-    <a style="margin: 0 10px" href="http://t.me/crypto_1225" target="blank" title="Telegram">
-        <img align="center" src="assets/icons/telegram.svg" alt="telegram" height="70" width="70" />
-    </a>
-    <a style="margin: 0 10px" href="mailto:hardysmith940110@gmail.com" target="blank" title="Email">
-        <img align="center" src="assets/icons/email.svg" alt="email" height="70" width="70" />
-    </a>
-</p>
-
 <br>
 
 <h2 align="left">🔥Statistics</h2>
