@@ -1,17 +1,3 @@
-<h1 align="center">👋🏻 Hi, I'm webmaster</h1>
-
-### 👨‍💻 Here's Some Fun Facts About Me:
-
-- 💬 I am capable to solve working problems.
-
-- 💥 I would love to build some Giant Website which will shine myself.
-
-- ⚡ Passionate about learning & development to reach the target.
-
-<br>
-
-<h2 align="left">🔥Statistics</h2>
-<br>
 <div align="center">
         <img align="start" height="120" width="150" right="50" src="https://github.com/webmaster1225/webmaster1225/blob/main/assets/images/left.png">
       <a href="https://github.com/webmaster1225">
