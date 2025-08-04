@@ -21,7 +21,3 @@
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
     </p>
 </div>
-📊 ** i spent my time on:**
-
-
-<img src="./static/github-metrics.svg" alt="Metrics" width="100%">
