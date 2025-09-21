@@ -1,6 +1,5 @@
 <div align="center">
         <img align="start" height="120" width="150" right="50" src="https://github.com/webmaster1225/webmaster1225/blob/main/assets/images/left.png">
-      <a href="https://github.com/webmaster1225">
         <img align="center" height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=webmaster1225&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
       </a>
         <img align="start" height="120" width="150" src="https://github.com/webmaster1225/webmaster1225/blob/main/assets/images/right.png"/>
